@@ -1,0 +1,8 @@
+.npm-cache/
+.playwright-cli/
+output/
+outputs/
+*.tar.gz
+*.tgz
+
+
